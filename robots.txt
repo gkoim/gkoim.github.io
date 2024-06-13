@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://marstis.github.io/sitemap/sitemap.txt
